@@ -19,7 +19,11 @@ Visualize results with confusion matrix and ROC curve.
 # Dependencies
 
 Python 3.x
+
 numpy
+
 pandas
+
 scikit-learn
+
 matplotlib
